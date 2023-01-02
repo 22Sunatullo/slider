@@ -29,11 +29,14 @@
 }
 
 
-/* .our-1{
+.our-1{
 
     height: 100px;
     width: 100px;
     background: blueviolet;
 
-} */
+}
 
+body{
+    background: transparent;
+}
